@@ -1,4 +1,4 @@
-Loan Status Prediction Using Machine Learning
+**Loan Status Prediction Using Machine Learning**
 Project Overview
 This project aims to predict the loan status (approved or not approved) of applicants based on various financial and demographic attributes. Using machine learning algorithms, this notebook demonstrates a complete end-to-end pipeline for data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and predictions.
 
@@ -60,3 +60,4 @@ Feel free to raise issues or submit pull requests for improvements. All contribu
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
